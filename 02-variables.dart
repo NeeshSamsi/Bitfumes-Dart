@@ -1,5 +1,9 @@
 void main() {
-  var greet; // empty variables are of dynamic type, auto inferred to String, int, bool, List, Map, etc.
+  /*
+  empty variables are of dynamic type, auto inferred to String, int, bool, List, Map, etc.
+  */
+
+  var greet;
   greet = "Hello World!";
 
   var assignAndInit = "Hello World!";
