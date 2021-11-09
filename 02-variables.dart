@@ -1,7 +1,7 @@
 void main() {
-  /*
+/*
   empty variables are of dynamic type, auto inferred to String, int, bool, List, Map, etc.
-  */
+*/
 
   var greet;
   greet = "Hello World!";
